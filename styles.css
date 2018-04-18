@@ -31,7 +31,7 @@ margin-top: 40px;
   font-family: 'Bree Serif', serif;
   display: flex;
   justify-content: center;
-   
+
   background-color: #42A894;
 }
 ul {
@@ -60,7 +60,7 @@ li a:hover {
 
 h2 {
   font-family: 'Bree Serif', sans-serif;
-  font-size: 70px;
+  font-size: 55px;
 }
 
 .phrase {
@@ -110,8 +110,8 @@ padding: 0px;
 .summary {
   text-align: center;
   font-family: 'Abel', serif;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .contact {
