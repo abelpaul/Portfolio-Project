@@ -12,21 +12,22 @@ background-color: #48C9B0;
 
 
 .work {
-float: left;
 text-align: left;
 }
+
 h1 {
   font-size: 60px;
 }
-.name {
-font-family: 'Abel', sans-serif;
 
+.header {
+font-family: 'Abel', sans-serif;
 text-align: center;
 padding: inherit;
 margin-bottom: 40px;
 margin-top: 40px;
 
 }
+
 .nav {
   font-family: 'Bree Serif', serif;
   display: flex;
@@ -34,6 +35,7 @@ margin-top: 40px;
 
   background-color: #42A894;
 }
+
 ul {
   display: flex;
   flex-flow: row wrap;
@@ -44,6 +46,7 @@ ul {
   overflow: hidden;
   border-radius: 5px;
 }
+
 li a {
   display: grid;
   color: #000000;
@@ -53,6 +56,7 @@ li a {
   border-bottom: none;
 
 }
+
 li a:hover {
   background-color: #6FA99E;
 }
