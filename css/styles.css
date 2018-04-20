@@ -1,4 +1,5 @@
 body {
+  overflow: hidden;
 background-color: #48C9B0;
 }
 .title {
@@ -29,6 +30,7 @@ margin-top: 40px;
 }
 
 .nav {
+  overflow-x: hidden;
   font-family: 'Bree Serif', serif;
   display: flex;
   justify-content: center;
